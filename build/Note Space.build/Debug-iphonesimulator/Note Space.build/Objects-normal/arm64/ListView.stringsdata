@@ -1,0 +1,24 @@
+{
+  "source": "/Users/dilshadp/Note Space/Note Space/ListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No notes yet",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "No matches found",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 65
+        }
+      }
+    ]
+  },
+  "version": 1
+}
