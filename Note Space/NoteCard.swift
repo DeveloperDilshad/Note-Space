@@ -30,8 +30,8 @@ struct NoteCard: View {
                 Spacer()
                 
                 Button(action:onDelete){
-                    Image("trash")
-                        .foregroundStyle(.white)
+                    Image(systemName: "trash")
+                        .foregroundStyle(.red)
                         .contentShape(Rectangle())
                 }
             }

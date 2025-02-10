@@ -15,7 +15,7 @@ struct Note: Identifiable,Codable {
     let category: Category
     let colorIndex : Int
     
-    init(id: UUID, text: String, date: Date, category: Category, colorIndex: Int) {
+    init(id: UUID = UUID(), text: String, date: Date, category: Category, colorIndex: Int) {
         self.id = id
         self.text = text
         self.date = date

@@ -11,7 +11,7 @@ import SwiftUI
 struct Note_SpaceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListView()
         }
     }
 }

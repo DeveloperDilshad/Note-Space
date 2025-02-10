@@ -1,7 +1,23 @@
 {
-  "source": "/Users/dilshadp/Note Space/Note Space/ListView.swift",
+  "source": "/Users/dilshadp/NoteSpace/Note Space/ListView.swift",
   "tables": {
     "Localizable": [
+      {
+        "comment": "",
+        "key": "Notes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search notes",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 86
+        }
+      },
       {
         "comment": "",
         "key": "No notes yet",

@@ -1,0 +1,48 @@
+{
+  "source": "/Users/dilshadp/NoteSpace/Note Space/NoteEditView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New Notes",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Note",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 86
+        }
+      }
+    ]
+  },
+  "version": 1
+}
